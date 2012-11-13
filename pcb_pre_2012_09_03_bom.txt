@@ -1,0 +1,89 @@
+Stückliste exportiert aus Z:/media/F8A8-AE69/hjh_projects/audio_hw/ct_guitar_amp/pcb_pre/pcb_pre_2012_09_03.sch am 09.09.2012 23:10:27
+
+Bauteil Wert                   Device                  Package                    Description                         
+C1      10u/35                 CAP_POLE2.5-7           THT_ELCO_E2,5-7            POLARIZED CAPACITOR, European symbol
+C2      10u/35                 CAP_POLE2.5-7           THT_ELCO_E2,5-7            POLARIZED CAPACITOR, European symbol
+C3      1u5                    C-EU050-050X075         C050-050X075               CAPACITOR, European symbol          
+C4      100p                   C-EUC1206               C1206                      CAPACITOR, European symbol          
+C5      1n0                    C-EUC1206               C1206                      CAPACITOR, European symbol          
+C6      100nF                  C5/3                    C5B3                       CAPACITOR                           
+C7      100u/16                CAP_POLE2.5-7           THT_ELCO_E2,5-7            POLARIZED CAPACITOR, European symbol
+C9      330n                   C-EU050-050X075         C050-050X075               CAPACITOR, European symbol          
+C10     10/35                  CAP_POLE2.5-7           THT_ELCO_E2,5-7            POLARIZED CAPACITOR, European symbol
+C11     1u0/50                 C-EUC1210               C1210                      CAPACITOR, European symbol          
+C12     1n0                    C-EUC1206               C1206                      CAPACITOR, European symbol          
+C13     1n0                    C-EUC1206               C1206                      CAPACITOR, European symbol          
+C15     1n0                    C-EUC1206               C1206                      CAPACITOR, European symbol          
+C16     0u33                   C-EU050-050X075         C050-050X075               CAPACITOR, European symbol          
+C17     10u/35                 CAP_POLE2.5-7           THT_ELCO_E2,5-7            POLARIZED CAPACITOR, European symbol
+C18     0u33                   C-EU050-050X075         C050-050X075               CAPACITOR, European symbol          
+C19     10n                    C5/3.5                  CAP5B3.5                   CAPACITOR                           
+D1      BAT43                  D-MLL-34                MELF-MLL34                 DIODE                               
+D2      BAT43                  D-MLL-34                MELF-MLL34                 DIODE                               
+D3      LL4148                 D-MLL-34                MELF-MLL34                 DIODE                               
+D4      Z12                    DIODE_ZENERSOD80C       SOD80C                     Z-Diode                             
+EFFECT  WW10H                  CONN_ML10H              THT_CONN_WW10_H            HARTING                             
+GAIN    RK9-2x100klog          THT_POTI_ALPS_RK09"     THT_POTI_ALPS_RK09         SCHEMATIC FOR DUAL POTENTIOMETER    
+PA      WW14V                  CONN_ML14H              THT_CONN_WW14_H            HARTING                             
+Q1      BF245A                 TRANS_JFET_N_TO92_SOT23 TO92-SOT23-JFET            N-Channel Junction FET              
+R1      220R                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R2      10k                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R3      1k0                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R4      2k2                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R5      100R                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R6      220R                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R7      100R                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R8      220R                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R9      100k                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R10     220R                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R11     4k7                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R12     2k2                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R13     2k2                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R14     220R                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R15     33k                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R16     10k                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R17     100k                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R20     100k                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R21     1M0                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R22     4k7                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R23     2k2                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R24     2k2                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R25     4k7                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R26     3k9                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R27     100k                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R28     22k                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R29     220R                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R30     220R                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R31     2k2                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R32     2k2                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R33     4k7                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R34     10k                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R35     10k                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R36     100k                   R-EU_R1206              R1206                      RESISTOR, European symbol           
+R37     10k                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R38     6k8                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R39     47R                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R40     6k8                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R41     47R                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+R42     4k7                    R-EU_R1206              R1206                      RESISTOR, European symbol           
+T1      BC850C                 BC817-25-NPN-SOT23-BEC  SOT23-BEC                  NPN Transistror                     
+T2      BC860C                 BC807-25-PNP-SOT23-BEC  SOT23-BEC                  PNP Transistror                     
+T3      BC850C                 BC817-25-NPN-SOT23-BEC  SOT23-BEC                  NPN Transistror                     
+T4      BC860C                 BC807-25-PNP-SOT23-BEC  SOT23-BEC                  PNP Transistror                     
+T5      BC860C                 BC807-25-PNP-SOT23-BEC  SOT23-BEC                  PNP Transistror                     
+T6      BC860C                 BC807-25-PNP-SOT23-BEC  SOT23-BEC                  PNP Transistror                     
+T7      BC860C                 BC807-25-PNP-SOT23-BEC  SOT23-BEC                  PNP Transistror                     
+T8      BC860C                 BC807-25-PNP-SOT23-BEC  SOT23-BEC                  PNP Transistror                     
+T9      BC860C                 BC807-25-PNP-SOT23-BEC  SOT23-BEC                  PNP Transistror                     
+T10     BC860C                 BC807-25-PNP-SOT23-BEC  SOT23-BEC                  PNP Transistror                     
+T11     BC850C                 BC817-25-NPN-SOT23-BEC  SOT23-BEC                  NPN Transistror                     
+T12     BC850C                 BC817-25-NPN-SOT23-BEC  SOT23-BEC                  NPN Transistror                     
+T13     BC860C                 BC807-25-PNP-SOT23-BEC  SOT23-BEC                  PNP Transistror                     
+T14     BC850C                 BC817-25-NPN-SOT23-BEC  SOT23-BEC                  NPN Transistror                     
+TONE    RK9-2x10klin           THT_POTI_ALPS_RK09"     THT_POTI_ALPS_RK09         SCHEMATIC FOR DUAL POTENTIOMETER    
+TP1     TPPAD1-17              TPPAD1-17               P1-17                      Test pad                            
+TP3     TPPAD1-17              TPPAD1-17               P1-17                      Test pad                            
+TP4     TPPAD1-13              TPPAD1-13               P1-13                      Test pad                            
+TP5     TPPAD1-13              TPPAD1-13               P1-13                      Test pad                            
+U$4     CONN_JACK_STEREO_SWI_3 CONN_JACK_STEREO_SWI_3  CONN_JACK_6_3_STEREO_SWI_3                                     
+VOL     RK9-2x10klog           THT_POTI_ALPS_RK09"     THT_POTI_ALPS_RK09         SCHEMATIC FOR DUAL POTENTIOMETER    

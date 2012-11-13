@@ -1,0 +1,69 @@
+Stückliste exportiert aus Z:/media/F8A8-AE69/hjh_projects/audio_hw/ct_guitar_amp/pcb_power/pcb_power_2012_09_06.sch am 09.09.2012 23:22:04
+
+Bauteil Wert               Device                  Package              Description                         
+C1      47n                C-EU050-030X075         THT_CAP_C050-030X075 CAPACITOR, European symbol          
+C2      10u/35             CAP_POLE2.5-7           THT_ELCO_E2,5-7      POLARIZED CAPACITOR, European symbol
+C3      470u/35/ESR        CAP_POL_EUE5-10.5       E5-10,5              POLARIZED CAPACITOR, European symbol
+C4      470u/35/ESR        CAP_POL_EUE5-10.5       E5-10,5              POLARIZED CAPACITOR, European symbol
+C5      0u1                C-EU050-045X075         THT_CAP_C050-045X075 CAPACITOR, European symbol          
+C7      4n7                C-EUC1206               C1206                CAPACITOR, European symbol          
+C8      1u0                C-EUC1206               C1206                CAPACITOR, European symbol          
+C9      4n7                C-EUC1206               C1206                CAPACITOR, European symbol          
+C10     1u0                C-EUC1206               C1206                CAPACITOR, European symbol          
+C11     1u0                C-EUC1206               C1206                CAPACITOR, European symbol          
+C12     1u0                C-EUC1206               C1206                CAPACITOR, European symbol          
+C13     1u0                C-EUC1206               C1206                CAPACITOR, European symbol          
+C15     0u1                C-EU050-045X075         THT_CAP_C050-045X075 CAPACITOR, European symbol          
+C16     47n                C-EU050-030X075         THT_CAP_C050-030X075 CAPACITOR, European symbol          
+C17     47n                C-EU050-030X075         THT_CAP_C050-030X075 CAPACITOR, European symbol          
+C18     1u0                C-EUC1206               C1206                CAPACITOR, European symbol          
+C19     1u0                C-EUC1206               C1206                CAPACITOR, European symbol          
+C20     1n0                C-EUC1206               C1206                CAPACITOR, European symbol          
+C21     10u/50             C-EUC0805K              C0805K               CAPACITOR, European symbol          
+C22     1u0                C-EUC1206               C1206                CAPACITOR, European symbol          
+C23     10u/50             C-EUC0805K              C0805K               CAPACITOR, European symbol          
+C24     1n0                C-EUC1206               C1206                CAPACITOR, European symbol          
+C25     100n               C-EUC1206               C1206                CAPACITOR, European symbol          
+C29     47n                C-EU050-030X075         THT_CAP_C050-030X075 CAPACITOR, European symbol          
+D1      ES1C               DIODE_SI_MELF41         MELF-MLL41           DIODE                               
+D7      SS24               DIODE_SI_MELF41         MELF-MLL41           DIODE                               
+D8      SS24               DIODE_SI_MELF41         MELF-MLL41           DIODE                               
+F1      PFRA030            FUSE_RM5                THT_RES_RM5_08       PolySwitch (TM) Resettable Device   
+F2      PFRA110            FUSE_RM5                THT_RES_RM5_08       PolySwitch (TM) Resettable Device   
+IC1     Attiny25-DIL8      DIL8S                   THT_DIL8             Dual In Line / Socket               
+IC2     IC_TPA3125D2_DIL20 IC_TPA3125D2_DIL20      THT_DIL20                                                
+L1      33uH/3A            INDWE_PD_L_XL_XXL       WE-PD_L/XL/XXL       INDUCTOR, European symbol           
+L4      33uH/3A            INDWE_PD_L_XL_XXL       WE-PD_L/XL/XXL       INDUCTOR, European symbol           
+POWER   WW20H              CONN_ML20H              THT_CONN_WW20_H      HARTING                             
+PRE_AMP WW14H              CONN_ML14H              THT_CONN_WW14_H      HARTING                             
+R1      1k0                RESR1206                R1206                RESISTOR, European symbol           
+R2      4k7                RESR1206                R1206                RESISTOR, European symbol           
+R3      100k               RESR1206                R1206                RESISTOR, European symbol           
+R4      1M0                RESR1206                R1206                RESISTOR, European symbol           
+R5      150k               RESR1206                R1206                RESISTOR, European symbol           
+R6      10k                RESR1206                R1206                RESISTOR, European symbol           
+R7      4k7                RESR1206                R1206                RESISTOR, European symbol           
+R8      22k                RESR1206                R1206                RESISTOR, European symbol           
+R9      100k               RESR1206                R1206                RESISTOR, European symbol           
+R10     1M0                RESR1206                R1206                RESISTOR, European symbol           
+R11     47R                RESR1206                R1206                RESISTOR, European symbol           
+R12     10k                RESR1206                R1206                RESISTOR, European symbol           
+R13     1k0                RESR1206                R1206                RESISTOR, European symbol           
+R14     10M0               RESR1206                R1206                RESISTOR, European symbol           
+R15     2M00               RESR1206                R1206                RESISTOR, European symbol           
+R16     4k7                RESR1206                R1206                RESISTOR, European symbol           
+R17     1k0                RESR1206                R1206                RESISTOR, European symbol           
+R18     100k               RESR1206                R1206                RESISTOR, European symbol           
+R20     10k                RESR1206                R1206                RESISTOR, European symbol           
+R22     10k                RESR1206                R1206                RESISTOR, European symbol           
+R23     1k0                RESR1206                R1206                RESISTOR, European symbol           
+SPEAKER WW10H              CONN_ML10H              THT_CONN_WW10_H      HARTING                             
+SPI     WW6V               CONN_ML6V               THT_CONN_WW6_V       HARTING                             
+SWI     WW6V               CONN_ML6V               THT_CONN_WW6_V       HARTING                             
+T1      BC850C             TRANS_NPNBC817SOT23-BEC SOT23-BEC            NPN Transistror                     
+T2      BC850C             TRANS_NPNBC817SOT23-BEC SOT23-BEC            NPN Transistror                     
+T3      IRF7416            TRANS_PMOS_SO8          SO8                  P-Channel MOSFET                    
+T4      BC850C             TRANS_NPNBC817SOT23-BEC SOT23-BEC            NPN Transistror                     
+T5      2N7002             BSS123                  SOT23                N-CHANNEL MOS FET                   
+T6      IRF7416            TRANS_PMOS_SO8          SO8                  P-Channel MOSFET                    
+T7      BC850C             TRANS_NPNBC817SOT23-BEC SOT23-BEC            NPN Transistror                     
